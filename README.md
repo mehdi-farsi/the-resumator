@@ -15,3 +15,4 @@ echo 'ruby regexp operator' | ruby the-resumator.rb
 
 - [ ] Command-line options (language, output format..).
 - [ ] Unit Testing.
+- [ ] Gemify.
