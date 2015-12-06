@@ -1,4 +1,4 @@
-###The Resumator (Practicing Ruby and Web Scraping)###
+##The Resumator
 
 
 A Command-line tool to summarize a list of Google search results into multiple paragraphs.
