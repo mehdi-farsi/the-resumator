@@ -1,10 +1,3 @@
-# encoding: utf-8
-#!/usr/bin/ruby
-# @Author: mehdi
-# @Date:   2014-11-05 13:09:19
-# @Last Modified by:   mehdi
-# @Last Modified time: 2014-11-05 23:29:26
-
 require './base'
 
 module Resumator
