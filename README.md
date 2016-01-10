@@ -11,8 +11,3 @@ A Command-line tool to summarize a list of Google search results into multiple p
 echo 'ruby regexp operator' | ruby the-resumator.rb
 ```
 
-#####Next Step#####
-
-- [ ] Command-line options (language, output format..).
-- [ ] Unit Testing.
-- [ ] Gemify.
